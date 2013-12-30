@@ -23,6 +23,7 @@
 build/
 build.properties
 build-fi/
+conf/*
 conf/masters
 conf/slaves
 conf/hadoop-env.sh
